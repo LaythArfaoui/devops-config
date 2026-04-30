@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: ghcr.io/LaythArfaoui/devops-app/api:latest
+          image: ghcr.io/laytharfaoui/devops-app/api:latest
           ports:
             - containerPort: 8000
           env:

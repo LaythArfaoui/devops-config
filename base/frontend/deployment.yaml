@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ghcr.io/LaythArfaoui/devops-app/frontend:latest
+          image: ghcr.io/laytharfaoui/devops-app/frontend:latest
           ports:
             - containerPort: 80
